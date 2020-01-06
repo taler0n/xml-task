@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<program xmlns:data="http://www.yarsec.ru/catalog/okidoki/oki-doki/">
+	<data:variable>
+		<data:id>i</data:id>
+		<data:value>2</data:value>
+	</data:variable>
+	<data:add>
+		<data:data-id>i</data:data-id>
+		<data:value>2</data:value>
+	</data:add>
+	<data:print>
+		<data:data-id>i</data:data-id>
+	</data:print>
+</program>
